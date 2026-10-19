@@ -3,8 +3,7 @@
 > 📢 **필독: 파일 다운로드 안내**
 > 
 > **화면 우측의 [Releases] 메뉴에 들어가면 파일을 다운로드하실 수 있습니다!**
-> 👉 빠르고 쉬운 다운로드: [최신 릴리스 바로가기](https://github.com/TravelingGhost/EduFin-Lens/releases/latest)
-
+> 
 ---
 
 ## 📝 프로젝트 소개
